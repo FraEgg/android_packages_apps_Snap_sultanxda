@@ -439,7 +439,7 @@
     <string name="pref_camera_savepath_default" translatable="false">0</string>
 
     <string name="pref_camera_savepath_entry_0">Internal storage</string>
-    <string name="pref_camera_savepath_entry_1">USB OTG drive</string>
+    <string name="pref_camera_savepath_entry_1">SD card</string>
 
     <!-- Refocus on capture -->
     <string name="pref_camera_refocus_title">Refocus on capture</string>
